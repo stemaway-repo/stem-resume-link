@@ -1,0 +1,7 @@
+plugins:
+  redirect_avataar_external_website:
+    default: ""
+    client: true
+  redirect_on_profile_picture:
+    default: true
+    client: true
