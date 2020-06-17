@@ -1,7 +1,7 @@
 {{
   d-button
   class="btn-default"
-  href=(concat "https://1-click.stemaway.com/" this.user.username)
+  href=(concat (i18n "stemaway.oneClickUrl") this.user.username)
   icon="user"
-  translatedLabel="View resume"
+  translatedLabel=(i18n "stemaway.viewResume")
 }}
