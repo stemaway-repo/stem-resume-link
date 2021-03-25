@@ -1,7 +1,7 @@
 {{
-  d-button
-  class="btn-default"
-  href=(concat (i18n "stemaway.oneClickUrl") this.user.username)
-  icon="user"
-  translatedLabel=(i18n "stemaway.viewResume")
+d-button
+class="btn-small"
+href=(concat (i18n "stemaway.resumeUrlPrefix") this.user.username (i18n "stemaway.resumeUrlSuffix"))
+icon="user"
+translatedLabel=(i18n "stemaway.viewResume")
 }}

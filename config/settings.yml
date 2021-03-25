@@ -1,0 +1,3 @@
+plugins:
+  resume_link_enabled:
+    default: true
