@@ -1,7 +1,6 @@
 en:
   js:
     stemaway:
-      # oneClickUrl: https://1-click.stemaway.com/
       resumeUrlPrefix: https://stemaway.com/u/
       resumeUrlSuffix: /resume
       viewResume: View Resume
