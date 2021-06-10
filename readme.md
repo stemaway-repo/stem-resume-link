@@ -1,4 +1,6 @@
-# STEM-Away&reg; Resume Link Plugin
+# STEM-Away&reg; Resume Link Plugin [Deprecated]
+
+> **⚠️ This plugin is no longer maintained. Its main functionality has now been merged with [stemaway-resume](https://stemaway-repo/stemaway-resume)**
 
 A simple plugin to add the View Resume button to the user-card on the STEM-Away® website.
 
